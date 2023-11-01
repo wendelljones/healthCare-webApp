@@ -1,0 +1,3186 @@
+[
+    {
+      "name": "Tylenol",
+      "price": "$5.99",
+      "description": "Tylenol is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/tylenol-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin",
+      "price": "$3.49",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen",
+      "price": "$4.99",
+      "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to reduce pain, fever, and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NyQuil",
+      "price": "$7.99",
+      "description": "NyQuil is a nighttime cold and flu relief medication.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DayQuil",
+      "price": "$7.99",
+      "description": "DayQuil is a daytime cold and flu relief medication.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NightTime NyQuil",
+      "price": "$8.99",
+      "description": "NightTime NyQuil is a nighttime cold and flu relief medication for a restful night's sleep.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nighttime-nyquil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen",
+      "price": "$6.49",
+      "description": "Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, inflammation, and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl",
+      "price": "$3.99",
+      "description": "Bisacodyl is a laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate",
+      "price": "$4.99",
+      "description": "Docusate is a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bismuth Subsalicylate",
+      "price": "$5.49",
+      "description": "Bismuth subsalicylate is an antacid and anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bismuth-subsalicylate-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide",
+      "price": "$4.99",
+      "description": "Loperamide is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dimenhydrinate",
+      "price": "$4.49",
+      "description": "Dimenhydrinate is an antihistamine used to prevent and treat motion sickness.",
+      "category": "Motion Sickness",
+      "image": "https://example.com/dimenhydrinate-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Triamcinolone",
+      "price": "$6.99",
+      "description": "Triamcinolone is a corticosteroid used to relieve itching, inflammation, and allergic reactions of the skin.",
+      "category": "Skin Care",
+      "image": "https://example.com/triamcinolone-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Afrin",
+      "price": "$5.49",
+      "description": "Afrin is a nasal decongestant spray used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/afrin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "4-Way",
+      "price": "$3.99",
+      "description": "4-Way is a nasal decongestant spray used to relieve nasal congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/4-way-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin",
+      "price": "$4.99",
+      "description": "Guaifenesin is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fexofenadine",
+      "price": "$8.99",
+      "description": "Fexofenadine is an antihistamine used to relieve allergy symptoms such as runny nose, sneezing, and itchy or watery eyes.",
+      "category": "Allergy Relief",
+      "image": "https://example.com/fexofenadine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loratadine",
+      "price": "$7.99",
+      "description": "Loratadine is an antihistamine used to relieve allergy symptoms.",
+      "category": "Allergy Relief",
+      "image": "https://example.com/loratadine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydrocortisone",
+      "price": "$5.99",
+      "description": "Hydrocortisone is a corticosteroid cream used to relieve itching and skin irritation.",
+      "category": "Skin Care",
+      "image": "https://example.com/hydrocortisone-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dextromethorphan",
+      "price": "$4.49",
+      "description": "Dextromethorphan is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/dextromethorphan-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Pseudoephedrine",
+      "price": "$6.49",
+      "description": "Pseudoephedrine is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/pseudoephedrine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dayquil Caps",
+      "price": "$8.99",
+      "description": "Dayquil Caps are used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/dayquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Daytime Cold & Flu Syrup",
+      "price": "$6.49",
+      "description": "Daytime Cold & Flu Syrup is used to relieve cold and flu symptoms during the day.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/daytime-cold-flu-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "DeepSea Saline DropsNeti Pot",
+      "price": "$9.99",
+      "description": "DeepSea Saline DropsNeti Pot is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/deepsea-saline-drops-neti-pot-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Delsym",
+      "price": "$7.99",
+      "description": "Delsym is a cough suppressant used to relieve coughing.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/delsym-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Guaifenesin Syrup",
+      "price": "$6.49",
+      "description": "Guaifenesin Syrup is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/guaifenesin-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex",
+      "price": "$8.99",
+      "description": "Mucinex is an expectorant used to loosen mucus and phlegm in the respiratory tract.",
+      "category": "Respiratory Health",
+      "image": "https://example.com/mucinex-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM",
+      "price": "$9.49",
+      "description": "Mucinex DM is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mucinex DM Maximum Strength",
+      "price": "$10.99",
+      "description": "Mucinex DM Maximum Strength is an expectorant and cough suppressant combination used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/mucinex-dm-maximum-strength-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "NeilMed Sinus Rinse Kit",
+      "price": "$11.99",
+      "description": "NeilMed Sinus Rinse Kit is used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/neilmed-sinus-rinse-kit-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nighttime Cough Syrup",
+      "price": "$7.49",
+      "description": "Nighttime Cough Syrup is used to relieve coughing and help with a restful night's sleep.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/nighttime-cough-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Nyquil Caps",
+      "price": "$8.99",
+      "description": "Nyquil Caps are used to relieve cold and flu symptoms at night.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/nyquil-caps-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Q-Tussin DM Syrup",
+      "price": "$6.99",
+      "description": "Q-Tussin DM Syrup is used to relieve coughing and chest congestion.",
+      "category": "Cough and Cold",
+      "image": "https://example.com/q-tussin-dm-syrup-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "SinuCleanse (Neti Pot Refill Pkts)",
+      "price": "$5.99",
+      "description": "SinuCleanse Neti Pot Refill Packets are used for nasal irrigation to relieve congestion.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sinucleanse-neti-pot-refill-pkts-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sucrets",
+      "price": "$4.99",
+      "description": "Sucrets are throat lozenges used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/sucrets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Sudogest PE",
+      "price": "$6.49",
+      "description": "Sudogest PE is a nasal decongestant used to relieve nasal congestion due to colds or allergies.",
+      "category": "Nasal Care",
+      "image": "https://example.com/sudogest-pe-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen Liquid (500mg/15ml)",
+      "price": "$7.49",
+      "description": "Acetaminophen Liquid is a liquid form of acetaminophen used to relieve pain and reduce fever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-liquid-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen (Tylenol, 325mg, 500mg)",
+      "price": "$6.99",
+      "description": "Acetaminophen is a common over-the-counter pain reliever and fever reducer.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen PM",
+      "price": "$7.99",
+      "description": "Acetaminophen PM is a pain reliever and sleep aid combination medication.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-pm-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen ER (650mg)",
+      "price": "$8.49",
+      "description": "Acetaminophen Extended Release tablets provide long-lasting pain relief.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-er-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Acetaminophen, Aspirin & Caffeine",
+      "price": "$6.99",
+      "description": "Acetaminophen, Aspirin & Caffeine is a combination pain reliever.",
+      "category": "Pain Relief",
+      "image": "https://example.com/acetaminophen-aspirin-caffeine-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Aspirin (81mg, 325mg)",
+      "price": "$5.99",
+      "description": "Aspirin is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/aspirin-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen (Advil)",
+      "price": "$4.99",
+      "description": "Ibuprofen (Advil) is a nonsteroidal anti-inflammatory drug (NSAID) used to reduce pain and inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-advil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ibuprofen Suspension (100mg/5ml)",
+      "price": "$7.49",
+      "description": "Ibuprofen Suspension is a liquid form of ibuprofen used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/ibuprofen-suspension-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Naproxen Sodium (Aleve, 220mg)",
+      "price": "$6.99",
+      "description": "Naproxen Sodium is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation.",
+      "category": "Pain Relief",
+      "image": "https://example.com/naproxen-sodium-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Midol Complete",
+      "price": "$6.99",
+      "description": "Midol Complete is a medication for menstrual relief that contains pain relievers and diuretics.",
+      "category": "Pain Relief",
+      "image": "https://example.com/midol-complete-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Urinary Pain Relief",
+      "price": "$8.99",
+      "description": "Urinary Pain Relief is a medication used to relieve urinary tract discomfort.",
+      "category": "Pain Relief",
+      "image": "https://example.com/urinary-pain-relief-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Benefiber Powder",
+      "price": "$9.99",
+      "description": "Benefiber Powder is a dietary supplement that helps support digestive health.",
+      "category": "Digestive Health",
+      "image": "https://example.com/benefiber-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Bisacodyl Tablets (5mg)",
+      "price": "$5.99",
+      "description": "Bisacodyl Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/bisacodyl-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Docusate Sodium (100mg capsules)",
+      "price": "$6.49",
+      "description": "Docusate Sodium capsules are a stool softener used to treat and prevent constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/docusate-sodium-capsules-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Drip Drop Electrolyte powder",
+      "price": "$10.99",
+      "description": "Drip Drop Electrolyte powder is used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/drip-drop-electrolyte-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Dulcolax Suppositories (10mg)",
+      "price": "$7.99",
+      "description": "Dulcolax Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/dulcolax-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ex-Lax Tablets",
+      "price": "$5.49",
+      "description": "Ex-Lax Tablets are a gentle laxative used to relieve occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/ex-lax-tablets-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fiber Tabs",
+      "price": "$6.99",
+      "description": "Fiber Tabs are a dietary supplement used to support digestive health and regularity.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fiber-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Fleet Enemas",
+      "price": "$8.99",
+      "description": "Fleet Enemas are used for rectal cleansing and relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/fleet-enemas-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Glycerin Suppositories",
+      "price": "$7.49",
+      "description": "Glycerin Suppositories are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/glycerin-suppositories-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Hydralyte Electrolyte tabs",
+      "price": "$9.99",
+      "description": "Hydralyte Electrolyte tabs are used to help rehydrate and replenish electrolytes.",
+      "category": "Hydration",
+      "image": "https://example.com/hydralyte-electrolyte-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Loperamide (2mg tabs)",
+      "price": "$7.49",
+      "description": "Loperamide (2mg tabs) is an anti-diarrheal medication.",
+      "category": "Digestive Health",
+      "image": "https://example.com/loperamide-2mg-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "MetaMucil Fiber Thins",
+      "price": "$8.99",
+      "description": "MetaMucil Fiber Thins are a convenient way to get added fiber to your diet.",
+      "category": "Digestive Health",
+      "image": "https://example.com/metamucil-fiber-thins-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Milk of Magnesia",
+      "price": "$7.99",
+      "description": "Milk of Magnesia is used for relief of occasional constipation and heartburn.",
+      "category": "Digestive Health",
+      "image": "https://example.com/milk-of-magnesia-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Mineral Oil",
+      "price": "$6.49",
+      "description": "Mineral Oil is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/mineral-oil-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Miralax",
+      "price": "$9.99",
+      "description": "Miralax is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/miralax-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Reguloid Powder",
+      "price": "$7.49",
+      "description": "Reguloid Powder is used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/reguloid-powder-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Senna Plus Tabs",
+      "price": "$6.99",
+      "description": "Senna Plus Tabs are used for relief of occasional constipation.",
+      "category": "Digestive Health",
+      "image": "https://example.com/senna-plus-tabs-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Ayr Saline Nasal Gel",
+      "price": "$5.99",
+      "description": "Ayr Saline Nasal Gel is used to relieve dry nasal passages.",
+      "category": "Nasal Care",
+      "image": "https://example.com/ayr-saline-nasal-gel-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore Throat",
+      "price": "$4.99",
+      "description": "Cepacol Sore Throat is a throat lozenge used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cepacol Sore throat & Cough",
+      "price": "$5.49",
+      "description": "Cepacol Sore throat & Cough is a throat lozenge used to relieve sore throats and coughs.",
+      "category": "Throat Relief",
+      "image": "https://example.com/cepacol-sore-throat-cough-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Chloraseptic Spray",
+      "price": "$6.49",
+      "description": "Chloraseptic Spray is a throat spray used to relieve sore throats.",
+      "category": "Throat Relief",
+      "image": "https://example.com/chloraseptic-spray-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "Cold-Eeze Zinc Lozenges",
+      "price": "$7.99",
+      "description": "Cold-Eeze Zinc Lozenges are used to relieve cold symptoms.",
+      "category": "Cold and Flu",
+      "image": "https://example.com/cold-eeze-zinc-lozenges-image.jpg",
+      "qty": 100
+    },
+    {
+      "name": "COVID-19",
+      "price": "Varies",
+      "description": "COVID-19 vaccines are used to prevent COVID-19 infection.",
+      "category": "Vaccines",
+      "image": "https://example.com/covid-19-vaccine-image.jpg",
+      "qty": 100
+    }
+]

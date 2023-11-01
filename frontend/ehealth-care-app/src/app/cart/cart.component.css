@@ -1,0 +1,109 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cartColumnHeaders {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:  #00244c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0px;
+    max-width: 640px;
+}
+
+.cartColumnContents {
+    justify-content: space-around;
+    align-items: center;
+    font-size: 12px;
+    border: 1px #00244c solid;
+    border-radius: 5px;
+    min-height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 640px;
+    background: linear-gradient(180deg, #deebf0, #267ea3 190%);
+}
+
+.cartPaymentGateway {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px #00244c solid;
+    border-radius: 5px;
+    min-height: 50px;
+    width: 640px;
+    margin-bottom: 0px;
+    background: linear-gradient(180deg, #deebf0, #267ea3 190%);
+}
+
+.paymentGatewayTitle {
+    color: #267ea3;
+}
+
+.cartRow {
+    display: flex;
+    text-align: left;
+}
+
+.iconImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.thumbImg {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+
+.thumbImg img {
+    border: 1px solid #267ea3;
+    border-radius: 5px;
+}
+
+.totalPriceRow {
+    justify-content: right;
+    text-align: right;
+    font-size: 14px;
+    font-weight: 700;
+    min-height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 640px;
+}
+
+.buttons {
+    color: white;
+    background-color: #267ea3;
+    border-color: #00ffff;
+    width: 200px;
+    height: 45px;
+    margin: 10px;
+}
+
+.paymentTitle {
+    color: #595A5C;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: right;
+} 
+
+.paymentContent {
+    color: #595A5C;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: left;
+}
+

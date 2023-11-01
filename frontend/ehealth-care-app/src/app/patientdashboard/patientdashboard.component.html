@@ -1,0 +1,49 @@
+    <div class="container loginFormTitle">
+    <div class="formContents">
+
+        <div class="centeredTitle">
+            <h3>Welcome to our Patient Dashboard {{emailid}}</h3>
+        </div>   
+    
+        <div class="buttonRow">
+            <div class="col-12">
+                <a routerLink="viewMedications" class="btn buttons">View Medicine</a>
+                <a routerLink="viewCart" class="btn buttons">View Cart</a>
+                <a routerLink="viewOrders" class="btn buttons">View Orders</a>
+                <a (click)="logout()" class="btn buttons">Logout</a>
+            </div>
+        </div>
+    </div>
+    </div>
+    
+        <div>
+        
+        <hr/>
+        <router-outlet></router-outlet>
+        
+        </div> 
+    
+
+
+
+
+
+
+<!-- ORIGINAL -->
+    <!-- 
+<div>
+    <h2>Welcome to Patient Homepage {{emailid}}</h2>
+
+    <a routerLink="viewMedications">View Medicine</a><br><br>
+
+
+<input type="button" value="logout"
+    (click)="logout()" class="btn btn-secondary"/><br><br>
+
+    <a routerLink="viewCart">View Cart</a><br><br>
+
+<hr/>
+<router-outlet></router-outlet>
+
+</div> -->
+<!-- END ORIGINAL -->

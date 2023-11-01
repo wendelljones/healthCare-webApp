@@ -1,0 +1,88 @@
+div .row {
+    justify-content: center;
+}
+
+.orderContainer {
+    max-width: 90%;
+    justify-content: center;
+    border: solid 1px #267ea3;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #deebf0, #267ea3 120%);
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+    padding: 15px;
+    margin: 5px;
+}
+
+.orderContentTitle {
+text-align: center;
+color: #267ea3;
+font-size: 12px;
+font-weight: 300;
+}
+
+.orderContentTitleRow {
+    border-bottom: 1px #267ea3 solid;
+    }
+
+.orderContentValue {
+    text-align: right;
+}
+
+.orderContentValueRow {
+    color: #595A5C;
+    border-bottom: 1px #267ea3 solid;
+    }
+
+.medicationsContainer img {
+    width: 100px;
+    border: 1px solid #267ea3;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.orderContent {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.orderTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.productPrice {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.productDescription {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: left;
+    min-height: 65px;
+}
+
+.productCategory {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: left;
+    min-height: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.productCategory p {
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
+
+.centeredTitle {
+    text-align: center;
+    padding: 10px;
+    color: #267ea3;
+}
+
+

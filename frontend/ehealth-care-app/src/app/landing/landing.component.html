@@ -1,0 +1,20 @@
+<div>
+
+    <h1 class="eHealthcareMainTitle">E-HealthcareApp</h1>
+    <ul>
+        <ul *ngIf="!flag;else  temp;" class="nav">
+            <li><a routerLink="aboutus">About Us</a></li>
+            <li><a routerLink="contactus">Contact Us</a></li>
+            <li><a routerLink="login">Login</a></li>
+        </ul>
+    <ng-template #temp>  <li><a routerLink="/home/medications">Medications</a></li>
+        <li><a routerLink="/home/vewCart">View Cart</a></li>
+        <li><a routerLink="/home/viewOrders">View Orders</a></li>
+        <li><a routerLink="/home/logout">Logout</a></li>
+    </ng-template>
+
+    </ul>
+</div>
+    <router-outlet></router-outlet>
+
+

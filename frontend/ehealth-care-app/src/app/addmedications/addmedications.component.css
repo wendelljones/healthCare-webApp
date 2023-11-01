@@ -1,0 +1,104 @@
+
+
+.loginFormTitle {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.loginFormContents {
+    margin: 0 auto;
+    padding: 5px;
+    max-width: 100%;
+    text-align: left;
+}
+
+.formLabel {
+    color: #54565B;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.formRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.accountRadio {
+    width: 50%;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.radioButtons {
+    color: #54565B;
+    font-size: 14px;
+    display: inline-block;
+    margin: 0 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+.radioButtons input {
+    padding: 5px;
+    margin: 5px;
+}
+
+.buttonRow {
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.buttons {
+    color: white;
+    background-color: #267ea3;
+    border-color: #00ffff;
+    width: 150px;
+    height: 45px;
+    margin: 10px;
+}
+
+.signUpResetButtons {
+    
+}
+
+h3 {
+    color:#a53a23;
+}
+
+div .formContents {
+    text-align: left; 
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+    height: auto;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    border: 2px solid #00ffff;
+    border-radius: 10px;
+    background: linear-gradient(120deg, #deebf0, #267ea3 120%);
+
+
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #54565B;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #267ea3;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}

@@ -1,0 +1,127 @@
+.row {
+    justify-content: center;
+}
+
+.medicationsContainer {
+    width: 200px;
+    border: solid 1px #267ea3;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #deebf0, #267ea3 90%);
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+    margin: 5px;
+}
+
+.medicationsContainer img {
+    width: 100px;
+    border: 1px solid #267ea3;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.productTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.productPrice {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.productDescription {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: left;
+    min-height: 65px;
+}
+
+.productCategory {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: left;
+    min-height: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.productCategory p {
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
+
+.wishListCartRow row {
+    
+}
+
+.wishListCartRow p {
+    font-size: 10px;
+    font-weight: 300;
+    color: white;
+    text-align: right;
+}
+
+.addCart img {
+    width: 40px;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cartIcon {
+    text-align: right;
+    
+}
+
+.formContainer {
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    border: 1px #00244c solid;
+    min-height: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(180deg, #deebf0, #267ea3 190%);
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #54565B;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #267ea3;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .55rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.searchFields {
+    color: #54565B;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.searchFields input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #54565B;
+    background-color: #fff;
+    border: 1px solid #267ea3;
+    border-radius: 5px;
+    margin: 6px;
+    padding: 3px;
+}

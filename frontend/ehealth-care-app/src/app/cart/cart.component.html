@@ -1,0 +1,68 @@
+<div class="container">
+        <div *ngIf="cartFlag">
+        <div class="row cartColumnHeaders">
+                <div class="col-1">Image</div>
+                <div class="col-1">Name</div>
+                <div class="col-1">Price</div>
+                <div class="col-1">Qty</div>
+                <div class="col-1">Category</div>
+                <div class="col-1">Add</div>
+                <div class="col-1">Subtract</div>
+                <div class="col-1">Remove</div>
+        </div>
+        <div *ngFor="let cart of cartInfo; let i=index;">
+        <div class="row cartColumnContents col-12">
+                <div class="col-1 thumbImg"><img [src]="cart.image" width="50px" height="50px" /></div>
+                <div class="col-1 cartRow">{{cart.name}}</div>
+                <div class="col-1 cartRow">{{cart.price}}</div>
+                <div class="col-1 cartRow">{{cart.qty}}</div>
+                <div class="col-1 cartRow">{{cart.category}}</div>
+                <div class="col-1 cartRow">
+                    <a (click)="increment(cart,i)">
+                      <i class="fas fa-plus" style="font-size: 20px; color: #00244c;"></i>
+                    </a>
+                  </div>
+                  
+                <div class="col-1 cartRow">
+                    <a (click)="decrement(cart,i)">
+                    <i class="fas fa-minus" style="font-size: 20px; color: #00244c;"></i>
+                    </a>
+                  </div>
+                <div class="col-1 cartRow"><a (click)="remove(cart,i)"><img class="iconImg" src="https://cdn-icons-png.flaticon.com/512/9283/9283917.png" width="25px" height="25px"></a></div>
+        </div>
+        </div>
+
+        <div class="row totalPriceRow cartColumnContents">
+          <div class="col-6">Total {{totalPrice}}</div>
+        </div>
+            <div class="row">
+                <td><input type="button" value="Proceed to Payment" (click)="doPayment()" class="btn buttons"/></td>
+            </div>
+        </div>
+
+        <div *ngIf="paymentFlag"> 
+          <div class="cartColumnContents paymentGatewayTitle">
+            <div class="row">
+                <h4>Payment gateway will go here</h4>
+            </div>
+          </div>
+        </div>
+       
+        <div *ngIf="paymentFlag"> 
+          <div class="cartColumnContents">
+            <div class="row">
+                <div class="col paymentTitle">Your current available funds:</div>
+                <div class="col paymentContent">{{bankBalance}}</div>
+            </div>
+            <div class="row">
+              <div class="col paymentTitle">Total Payment:</div>
+                <div class="col paymentContent">{{totalPrice}}</div>
+            </div>
+                <div class="row">
+                    <div class=""><input type="button" [value]="b1" (click)="submitPayment()" [disabled]="flag"  class="btn buttons"/></div>
+                </div>
+           </div>
+        </div>
+            
+</div>
+

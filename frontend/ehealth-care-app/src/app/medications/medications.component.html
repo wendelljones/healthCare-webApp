@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="row formContainer form-control">
+            <div class="col searchFields"> 
+                Search by name<input type="text" value="Search by name" [(ngModel)] = "searchData"/>
+            </div>
+            <div class="col searchFields">
+                <span> Search by category: </span>
+                <select [(ngModel)] = "searchCategory">
+                    <option value="">All Categories</option>
+                    <option *ngFor="let category of categories" [value]="category">{{category}}</option>
+                </select>
+            </div>
+    </div>
+    <div class="row">
+        <div *ngFor="let mm of medications | category:searchCategory | search:searchData" class="col-4 medicationsContainer">
+            <div>
+            <img src={{mm.image}} width="100px" height="auto"/>
+            </div>
+            <div class="productTitle">{{mm.name}}</div>
+            <div class="productPrice">{{mm.price | currency}}</div>
+            <div class="productDescription">{{mm.description}}</div>
+            <div class="productCategory"><p>Product Category:</p> {{mm.category}}</div>
+        <div class="row wishListCartRow">
+            <div class="cartIcon">
+                <a (click)="addToCart(mm)" class="addCart">
+                    <img src="https://cdni.iconscout.com/illustration/premium/thumb/healthcare-box-in-a-shopping-cart-with-businessman-9615781-7796101.png"/>
+                </a>
+                <p>Add to Cart</p>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
