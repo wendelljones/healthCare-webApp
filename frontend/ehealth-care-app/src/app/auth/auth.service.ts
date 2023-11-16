@@ -7,8 +7,8 @@ import { BehaviorSubject, Observable } from 'rxjs';
 })
 export class AuthService {
   private loggedIn = new BehaviorSubject<boolean>(false);
-  private baseSignUpUrl:string = "http://18.218.191.62:9090/login/signUp";
-  private baseSignInUrl:string = "http://18.218.191.62:9090/login/signIn";
+  private baseSignUpUrl:string = "http://52.15.202.158:9090/login/signUp";
+  private baseSignInUrl:string = "http://52.15.202.158:9090/login/signIn";
 constructor(public http:HttpClient) { }
 get isLoggedIn():Observable<boolean>{
   return this.loggedIn.asObservable();

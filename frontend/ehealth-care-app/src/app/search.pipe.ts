@@ -5,25 +5,10 @@ import { Pipe, PipeTransform } from '@angular/core';
 })
 export class SearchPipe implements PipeTransform {
 
-  // transform(value: any, ...args: unknown[]): unknown {
-  //   console.log(value)
-  //   return value;
-  //   // return value.substring(2,4);
-  // }
-
   transform(obj: any, key:any): any {
     console.log(obj)
-  //  console.log(key);
-  // let result = obj.filter((m:any)=>m.category==key);
   let result = obj.filter((m:any)=>m.name.toUpperCase().startsWith(key.toUpperCase()));
-  // if(result.length==0){
-  //   return obj;
-  // }else {
-  //   return result;
-  // }
   return result;
-    
-    // return value.substring(2,4);
   }
 
 }
